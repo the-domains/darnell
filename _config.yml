@@ -1,0 +1,28 @@
+name: darnell
+favicon: null
+layout_spectrum: 0.8469248453620821
+typography_spectrum: 0.24555648094974458
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.39914514659903944
+  lightness: 0.5510238229762763
+  saturation: 0.8224809623789042
+  rhythmicContrast: 0.4524382087402046
+purpose: []
